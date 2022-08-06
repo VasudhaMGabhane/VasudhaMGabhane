@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Vasudha-yellow)]([https://stackoverflow.com/users/3687251/Vasudha-](https://stackoverflow.com/users/19664507/vasudha))
 
 I'm
-As software professionalist has skills in frontend developer.
+as software professionalist has skills in frontend developer.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/VasudhaMGabhane/count.svg)
